@@ -1,0 +1,19 @@
+Receipt: 10-291-2018 22:10:27
+Title                     Quantity   Price      Total     
+
+
+Great Poems               1          $12.95     $12.95    	
+
+Learn Java in One Day     1          $2.99      $2.99     	
+
+Total                                	         $15.94    
+
+
+
+
+Tax                                 	         $1.12     
+
+
+
+
+Grand Total                         	         $17.06    
